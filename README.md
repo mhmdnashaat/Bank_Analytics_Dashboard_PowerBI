@@ -127,8 +127,6 @@ It also includes a dedicated Active Accounts Analysis for the last 500 days to m
 
 - Power BI (Bank_Analytics Dashboard.pbix)
 
-- Dataset
-- 
 - Screenshots
 
 - README
