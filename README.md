@@ -2,6 +2,8 @@
 
 ## 📌 Overview
 
+<img width="991" height="549" alt="Overview 2" src="https://github.com/user-attachments/assets/b4c6d00e-0156-4145-9bb6-5de8bf8e37f1" />
+
 This project is an interactive Power BI dashboard designed to analyze banking operations and transform raw data into actionable business insights.
 
 The dashboard covers five key business areas:
